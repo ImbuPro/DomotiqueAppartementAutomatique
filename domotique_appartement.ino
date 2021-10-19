@@ -102,17 +102,3 @@ void loop()
         digitalWrite(8, HIGH);
     }
 }
-
-/*
-
-
-
-
-
-Flandrin Dylan TBPSN
-
-
-
-
-
-*/
